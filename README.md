@@ -8,4 +8,4 @@ to run the project:
 3.  Run expo start in the in the terminal
 4.  A webpage with a QR code will appear on your browser
 5.  Open Expo Go app and scan the QR code
-6.  The demo app will be open in your mobile application# IFCA-DEMO
+6.  The demo app will be open in your mobile application
